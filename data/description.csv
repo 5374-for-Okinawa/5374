@@ -1,4 +1,4 @@
 label,sublabel,description,styles,bgcolor
-燃やせるごみ,,,,#733b96
-燃やせないごみ,,,,#ea3b13
-資源ごみ,,,,#77ae1f
+燃やせるごみ,,,img/moyasu.svg,#733b96
+燃やせないごみ,,,img/moyasanai.svg,#ea3b13
+資源ごみ,,,img/shigen02.svg,#77ae1f
