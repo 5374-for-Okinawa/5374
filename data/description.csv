@@ -1,9 +1,4 @@
 label,sublabel,description,styles,bgcolor
-燃やせるごみ,,,img/moyasanai02.svg,#733b96
-燃やせないごみ,,,img/shigen02.svg,#77ae1f
-資源ごみ(草木),,,img/moyasu02.svg,#ea3b13
-資源ごみ(かん),,,img/bin02.svg,#2dc7aa
-資源ごみ(びん),,,img/bin02.svg,#2dc7aa
-資源ごみ(紙),,,img/bin02.svg,#2dc7aa
-資源ごみ(ペットボトル),,,img/bin02.svg,#2dc7aa
-資源ごみ(有害),,,img/bin02.svg,#2dc7aa
+燃やせるごみ,,,img/moyasu02.svg,#733b96
+燃やせないごみ,,,img/moyasanai02.svg,#ea3b13
+資源ごみ,,,img/shigen02.svg,#77ae1f
