@@ -576,7 +576,7 @@ $(function() {
             '<div class="left-day">' + leftDayText + '</div>' +
             '<div class="accordion-table" >';
           if (ableSVG && SVGLabel) {
-            accordionHTML += '<p class="text-center">' + description.label + "</p>";
+            accordionHTML += '<img src="' + description.styles + '" alt="' + description.label + '"  />';
           } else {
             accordionHTML += '<p class="text-center">' + description.label + "</p>";
           }
