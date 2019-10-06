@@ -575,11 +575,7 @@ $(function() {
             '<a class="accordion-toggle" style="height:' + accordion_height + 'px" data-toggle="collapse" data-parent="#accordion" href="#collapse' + i + '">' +
             '<div class="left-day">' + leftDayText + '</div>' +
             '<div class="accordion-table" >';
-          if (ableSVG && SVGLabel) {
-            accordionHTML += '<img src="' + description.styles + '" alt="' + description.label + '"  />';
-          } else {
-            accordionHTML += '<p class="text-center">' + description.label + "</p>";
-          }
+          accordionHTML += '<p class="text-center">' + description.label + "</p>";
           accordionHTML += "</div>" +
             '<h6><p class="text-left date">' + dateLabel + "</p></h6>" +
             "</a>" +
